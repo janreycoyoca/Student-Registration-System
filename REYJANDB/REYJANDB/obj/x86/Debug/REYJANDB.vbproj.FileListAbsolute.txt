@@ -1,0 +1,14 @@
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\bin\Debug\REYJANDB.exe
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\bin\Debug\REYJANDB.pdb
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\bin\Debug\REYJANDB.xml
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\REYJANDB.Form1.resources
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\REYJANDB.Form2.resources
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\REYJANDB.Resources.resources
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\REYJANDB.exe
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\REYJANDB.xml
+c:\users\reyjan\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\REYJANDB.pdb
+C:\Users\REYJAN\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\obj\x86\Debug\REYJANDB.Form3.resources
+C:\Users\REYJAN\documents\visual studio 2010\Projects\REYJANDB\REYJANDB\bin\Debug\REYJANDB.exe.config
